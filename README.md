@@ -66,12 +66,3 @@ Personal CAD design study integrating three COTS mechatronic components into a s
 
 <img src="images/motor-unit-isometric.png" width="480" alt="Robot joint actuator isometric view">
 <img src="images/motor-unit-section-view.png" width="480" alt="Robot joint actuator cross-section view">
-
----
-
-## Setup Notes (for repo owner)
-This README expects an `images/` folder at the repo root containing the PNGs referenced above (sourced from `output/github-readme-images/`). To publish:
-1. Create a repo named exactly `pratiknudurupati` (must match your GitHub username) — GitHub renders its README on your profile page automatically.
-2. Add this file as `README.md` at the repo root.
-3. Copy `output/github-readme-images/*.png` into an `images/` folder at the repo root.
-4. Commit and push.
