@@ -14,7 +14,7 @@ Mechanical design engineer focused on actuators, robotics, and structural/FEA an
 
 ## Featured Projects
 
-### 🔧 Bidirectional Twisted-String Actuator — Evodyne Robotics
+### Bidirectional Twisted-String Actuator — Evodyne Robotics
 Derived and built a differential tendon-drive actuator, solving for the zero-slack take-up condition analytically before cutting any parts.
 
 - Derived the take-up relation R(θ) = dΔL/dθ governing a differential twisted-string drive
@@ -26,7 +26,7 @@ Derived and built a differential tendon-drive actuator, solving for the zero-sla
 
 ---
 
-### 🏎️ Compliant PCB Mount — FSAE Anteater Electric Racing
+### Compliant PCB Mount — FSAE Anteater Electric Racing
 Designed a TPU isolation mount to protect a control PCB from vibration and shock loads on a formula-style EV chassis.
 
 - FEA-validated compliant mount cutting shock transmission ~95% under a 20g impulse
@@ -49,14 +49,14 @@ Embedded firmware and PCB for a 4-LED progressive shift light with gear-aware RP
 
 ---
 
-### ✋ Robotic Hand
+### Robotic Hand
 Gear-driven transmission housing individually actuated fingers, designed for compact packaging within a hand-scale envelope.
 
 <img src="images/robotic-hand-cad.png" width="480" alt="Robotic hand CAD assembly">
 
 ---
 
-### ⚙️ Robot-Joint Actuator (Motor + Harmonic Drive + Encoder Integration)
+### Robot-Joint Actuator (Motor + Harmonic Drive + Encoder Integration)
 Personal CAD design study integrating three COTS mechatronic components into a single robot-arm-joint actuator: a frameless torque motor, a strain-wave (harmonic drive) reducer, and an off-axis absolute encoder.
 
 - Designed the input shaft as the load-bearing interface part, stepping between the motor rotor bond diameter and the reducer's wave-generator bore (H7 fit)
