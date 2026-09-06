@@ -37,14 +37,6 @@ Designed a TPU isolation mount to protect a control PCB from vibration and shock
 
 ---
 
-### 🔬 Optical Mount for Multispectral Imaging — UCI Beckman Laser Institute
-FEA-validated structural mount supporting a Spatial Frequency Domain Imaging (SFDI) system used in burn-wound classification research.
-
-- Peak stress ~1.85×10⁵ N/m² vs. 4×10⁷ N/m² yield
-- Supported research published at SPIE Photonics West
-
----
-
 ### 🏁 ESP32 Progressive Shift-Light Controller — AER Electronics
 Embedded firmware and PCB for a 4-LED progressive shift light with gear-aware RPM thresholding.
 
