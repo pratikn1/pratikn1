@@ -2,7 +2,7 @@
 
 Mechanical design engineer focused on actuators, robotics, and structural/FEA analysis. Biomedical Engineering student at UC Irvine — hands-on work skews mechanical: precision drivetrains, compliant mounts, and embedded control for mechatronic systems.
 
-📧 pratiknudurupati@gmail.com
+pratiknudurupati@gmail.com
 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-red)
 ![FEA](https://img.shields.io/badge/FEA-Structural%20Analysis-blue)
