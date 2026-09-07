@@ -22,8 +22,6 @@ Derived and built a differential tendon-drive actuator, solving for the zero-sla
 - **Result:** 0.26 N·m continuous bidirectional torque, 46% smaller package and 6% better torque-to-weight than the prior design
 
 <img src="images/tsa-actuator-cad.png" width="480" alt="Twisted-string actuator CAD assembly">
-<img src="images/tsa-actuator-build-photo.png" width="480" alt="Twisted-string actuator built prototype">
-
 ---
 
 ### Compliant PCB Mount — FSAE Anteater Electric Racing
@@ -37,7 +35,7 @@ Designed a TPU isolation mount to protect a control PCB from vibration and shock
 
 ---
 
-### 🏁 ESP32 Progressive Shift-Light Controller — AER Electronics
+### ESP32 Progressive Shift-Light Controller — AER Electronics
 Embedded firmware and PCB for a 4-LED progressive shift light with gear-aware RPM thresholding.
 
 - Gear-inferred RPM thresholding (shift point scales with detected gear, not a fixed RPM)
