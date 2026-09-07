@@ -2,7 +2,7 @@
 
 Mechanical design engineer focused on actuators, robotics, and structural/FEA analysis. Biomedical Engineering student at UC Irvine — hands-on work skews mechanical: precision drivetrains, compliant mounts, and embedded control for mechatronic systems.
 
-📧 pratiknudurupati@gmail.com
+pratiknudurupati@gmail.com
 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-red)
 ![FEA](https://img.shields.io/badge/FEA-Structural%20Analysis-blue)
@@ -14,7 +14,7 @@ Mechanical design engineer focused on actuators, robotics, and structural/FEA an
 
 ## Featured Projects
 
-### 🔧 Bidirectional Twisted-String Actuator — Evodyne Robotics
+### Bidirectional Twisted-String Actuator — Evodyne Robotics
 Derived and built a differential tendon-drive actuator, solving for the zero-slack take-up condition analytically before cutting any parts.
 
 - Derived the take-up relation R(θ) = dΔL/dθ governing a differential twisted-string drive
@@ -22,11 +22,9 @@ Derived and built a differential tendon-drive actuator, solving for the zero-sla
 - **Result:** 0.26 N·m continuous bidirectional torque, 46% smaller package and 6% better torque-to-weight than the prior design
 
 <img src="images/tsa-actuator-cad.png" width="480" alt="Twisted-string actuator CAD assembly">
-<img src="images/tsa-actuator-build-photo.png" width="480" alt="Twisted-string actuator built prototype">
-
 ---
 
-### 🏎️ Compliant PCB Mount — FSAE Anteater Electric Racing
+### Compliant PCB Mount — FSAE Anteater Electric Racing
 Designed a TPU isolation mount to protect a control PCB from vibration and shock loads on a formula-style EV chassis.
 
 - FEA-validated compliant mount cutting shock transmission ~95% under a 20g impulse
@@ -37,7 +35,7 @@ Designed a TPU isolation mount to protect a control PCB from vibration and shock
 
 ---
 
-### 🏁 ESP32 Progressive Shift-Light Controller — AER Electronics
+### ESP32 Progressive Shift-Light Controller — AER Electronics
 Embedded firmware and PCB for a 4-LED progressive shift light with gear-aware RPM thresholding.
 
 - Gear-inferred RPM thresholding (shift point scales with detected gear, not a fixed RPM)
@@ -49,14 +47,14 @@ Embedded firmware and PCB for a 4-LED progressive shift light with gear-aware RP
 
 ---
 
-### ✋ Robotic Hand
+### Robotic Hand
 Gear-driven transmission housing individually actuated fingers, designed for compact packaging within a hand-scale envelope.
 
 <img src="images/robotic-hand-cad.png" width="480" alt="Robotic hand CAD assembly">
 
 ---
 
-### ⚙️ Robot-Joint Actuator (Motor + Harmonic Drive + Encoder Integration)
+### Robot-Joint Actuator (Motor + Harmonic Drive + Encoder Integration)
 Personal CAD design study integrating three COTS mechatronic components into a single robot-arm-joint actuator: a frameless torque motor, a strain-wave (harmonic drive) reducer, and an off-axis absolute encoder.
 
 - Designed the input shaft as the load-bearing interface part, stepping between the motor rotor bond diameter and the reducer's wave-generator bore (H7 fit)
@@ -66,12 +64,3 @@ Personal CAD design study integrating three COTS mechatronic components into a s
 
 <img src="images/motor-unit-isometric.png" width="480" alt="Robot joint actuator isometric view">
 <img src="images/motor-unit-section-view.png" width="480" alt="Robot joint actuator cross-section view">
-
----
-
-## Setup Notes (for repo owner)
-This README expects an `images/` folder at the repo root containing the PNGs referenced above (sourced from `output/github-readme-images/`). To publish:
-1. Create a repo named exactly `pratiknudurupati` (must match your GitHub username) — GitHub renders its README on your profile page automatically.
-2. Add this file as `README.md` at the repo root.
-3. Copy `output/github-readme-images/*.png` into an `images/` folder at the repo root.
-4. Commit and push.
